@@ -11,7 +11,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "testcafe chrome:headless test/**.*",
+    "test": "testcafe chrome:headless test/",
     "eject": "react-scripts eject"
   }
 }
